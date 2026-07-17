@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "versionCode": 1,
+  "forceUpdate": false,
+  "apkUrl": "https://github.com/YOUR_USERNAME/Siya-Update/releases/latest/download/app-release.apk",
+  "releaseNotes": [
+    "Initial Release"
+  ]
+}
